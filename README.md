@@ -15,5 +15,4 @@
 
 ---
 
-<span align="center">Expertise in systems design, architecture, application development, and security engineering. Specialises in implementing DevSecOps practices that integrate security, automation, and operational excellence throughout the software development lifecycle.
-</span>
+Expertise in systems design, architecture, application development, and security engineering. Specialises in implementing DevSecOps practices that integrate security, automation, and operational excellence throughout the software development lifecycle.
