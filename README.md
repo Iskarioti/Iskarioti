@@ -1,4 +1,4 @@
-<h3 align="center">👋 Hi, I am Oduor Kariuki</h3>
+<h3 align="center">👋 Hi, I am Kariuki</h3>
 
 <p align="center">
   <span>Software</span> •
@@ -15,4 +15,4 @@
 
 ---
 
-Experienced systems engineer with expertise in software design, architecture, development, and security. Focused on DevSecOps practices. Let's connect for innovative opportunities!
+Expertise in systems design, architecture, application development, and security engineering. Specialises in implementing DevSecOps practices that integrate security, automation, and operational excellence throughout the software development lifecycle.
